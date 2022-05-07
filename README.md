@@ -62,3 +62,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Clone Project
+
+1. Open CMD, go to Repository Location for Project
+2. type git clone https://github.com/mudblood97/coba-laravel.git
+3. cd coba-laravel
+4. type composer install
+5. open .env.example and Save As .env
+6. Run XAMPP
+7. Open phpmyadmin and create Database coba_laravel
+8. type php artisan key:generate
+9. type php artisan migrate --seed
+10. Run the Laravel Project (php artisan serve)
