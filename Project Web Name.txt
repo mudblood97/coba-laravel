@@ -1,0 +1,7 @@
+Nama Website: Ivan's Blog
+Password: 5biYuEV4L7LQ&1pqMmxv
+
+Nama Database: id18945031_coba_laravel
+Username Database: id18945031_laravel
+Host Database: localhost
+Password: AGfegRFwj|!I\0Ar
